@@ -29,7 +29,7 @@ DEBUG = True
 # <HINT> add your cloud host here
 ALLOWED_HOSTS = [
     'guru1018.mybluemix.net',
-    'localhost', # uncomment this if you want to test it locally
+    #'localhost', # uncomment this if you want to test it locally
 ]
 
 
